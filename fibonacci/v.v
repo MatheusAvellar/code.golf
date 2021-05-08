@@ -1,0 +1,5 @@
+// For code.golf/fibonacci#v
+////////////////////////////
+// 40 bytes/chars:
+for a,b:=0,1;a<1e6;a,b=b,a+b{println(a)}
+////////////////////////////
